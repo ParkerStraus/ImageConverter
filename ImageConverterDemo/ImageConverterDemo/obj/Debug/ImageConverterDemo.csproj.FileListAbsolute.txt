@@ -1,0 +1,7 @@
+C:\Users\Strau307\Desktop\Notes\Spring 2021\SE 2300\ImageConverterDemo\ImageConverterDemo\ImageConverterDemo\obj\Debug\ImageConverterDemo.csprojAssemblyReference.cache
+C:\Users\Strau307\Desktop\Notes\Spring 2021\SE 2300\ImageConverterDemo\ImageConverterDemo\ImageConverterDemo\obj\Debug\ImageConverterDemo.csproj.CoreCompileInputs.cache
+C:\Users\Strau307\Desktop\Notes\Spring 2021\SE 2300\ImageConverterDemo\ImageConverterDemo\ImageConverterDemo\bin\Debug\ImageConverterDemo.exe.config
+C:\Users\Strau307\Desktop\Notes\Spring 2021\SE 2300\ImageConverterDemo\ImageConverterDemo\ImageConverterDemo\bin\Debug\ImageConverterDemo.exe
+C:\Users\Strau307\Desktop\Notes\Spring 2021\SE 2300\ImageConverterDemo\ImageConverterDemo\ImageConverterDemo\bin\Debug\ImageConverterDemo.pdb
+C:\Users\Strau307\Desktop\Notes\Spring 2021\SE 2300\ImageConverterDemo\ImageConverterDemo\ImageConverterDemo\obj\Debug\ImageConverterDemo.exe
+C:\Users\Strau307\Desktop\Notes\Spring 2021\SE 2300\ImageConverterDemo\ImageConverterDemo\ImageConverterDemo\obj\Debug\ImageConverterDemo.pdb
